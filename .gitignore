@@ -1,0 +1,9 @@
+# Файлы
+desktop.ini
+Thumbs.db
+.DS_Store
+# Директория
+.idea/
+node_modules/
+log/*
+!/log/.htaccess
